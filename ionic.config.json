@@ -1,0 +1,8 @@
+{
+  "name": "UniqApp",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
